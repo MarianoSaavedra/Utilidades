@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+.poetsen-one-regular {
+	font-family: "Poetsen One", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#root {
+	min-height: 100dvh;
+	background-image: url(https://picsum.photos/1920/1080);
+	background-repeat: no-repeat;
+	object-fit: contain;
+}
+
+.redesSociales {
+	width: 30px;
+	height: 30px;
+}
+
+.footer {
+	background-color: rgba(0, 0, 0, 0.425);
+	text-shadow: 5px 5px 4px rgb(8, 8, 8);
+	color: rgb(209, 68, 43);
+}
