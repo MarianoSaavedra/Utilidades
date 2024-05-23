@@ -11,6 +11,13 @@ const AccordionBootcamps = () => {
 					</ListGroup.Item>
 				</ListGroup>
 			</Accordion.Body>
+			<Accordion.Body className="text-center p-0">
+				<ListGroup>
+					<ListGroup.Item action href="https://retosdeprogramacion.com/" target="_blank" variant="dark">
+						Retos de Programacion
+					</ListGroup.Item>
+				</ListGroup>
+			</Accordion.Body>
 		</Accordion.Item>
 	);
 };
