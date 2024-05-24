@@ -1,17 +1,15 @@
 * {
+	margin: 0;
+	padding: 0;
 	box-sizing: border-box;
 }
-.poetsen-one-regular {
-	font-family: "Poetsen One", sans-serif;
-	font-weight: 400;
-	font-style: normal;
-}
 
-#root {
-	min-height: 100dvh;
-	background-image: url(https://picsum.photos/1920/1080);
+.contenedor {
+	height: 100dvh;
+	background-color: black;
+	/* background-image: url(https://picsum.photos/2750/1280);
 	background-repeat: no-repeat;
-	object-fit: contain;
+	object-fit: contain; */
 }
 
 .redesSociales {

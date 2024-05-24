@@ -7,11 +7,11 @@ import Footer from "./components/Footer";
 
 function App() {
 	return (
-		<>
+		<div className="col-12 contenedor">
 			<Header />
 			<Acordion />
 			<Footer />
-		</>
+		</div>
 	);
 }
 
